@@ -11,3 +11,4 @@ List Member:
 6. <p><a href="https://github.com/martinbandung">Martin Adrian</a></p>
 7. <p><a href="https://github.com/Andikazidanef15">Andika Zidane Faturrahman</a></p>
 8. <p><a href="https://github.com/faustinaleo18">Faustina Leonita</a></p>
+9. <p><a href="https://github.com/nugriz">Rizki Nugraha</a></p>
