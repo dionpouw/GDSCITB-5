@@ -13,3 +13,4 @@ List Member:
 8. <p><a href="https://github.com/faustinaleo18">Faustina Leonita</a></p>
 9. <p><a href="https://github.com/nugriz">Rizki Nugraha</a></p>
 10. <p><a href="https://github.com/zenpardosi">Zen Fanny Parulian. P</a></p>
+11. <p><a href="https://github.com/karelrenaldi">Karel Renaldi</a></p>
