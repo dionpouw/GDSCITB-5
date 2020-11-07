@@ -10,7 +10,3 @@ List Member:
 5. <p><a href="https://github.com/Rhecoparadhika">Rheco Paradhika Kusuma</a></p>
 6. <p><a href="https://github.com/martinbandung">Martin Adrian</a></p>
 7. <p><a href="https://github.com/Andikazidanef15">Andika Zidane Faturrahman</a></p>
-
-9. <p><a href="https://github.com/nugriz">Rizki Nugraha</a></p>
-10. <p><a href="https://github.com/zenpardosi">Zen Fanny Parulian. P</a></p>
-11. <p><a href="https://github.com/karelrenaldi">Karel Renaldi</a></p>
